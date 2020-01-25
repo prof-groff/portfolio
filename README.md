@@ -3,3 +3,5 @@
 [Publications](parts/publications.md)
 
 [Presentations](parts/presentations.md)
+
+[Courses](parts/courses.md)
