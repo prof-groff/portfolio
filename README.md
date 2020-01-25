@@ -1,5 +1,7 @@
 # Jeffrey R. Groff
 
+[Publications](publications.md)
+
 ## Publications
 
 #### Dissertation
