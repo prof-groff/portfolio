@@ -4,7 +4,7 @@
 Shepherd University	Shepherdstown, WV  
 Fall 2016, 2018, Spring 2017
 
-This course introduces fundamental concepts in environmental studies, with specific focus on energy, earth systems and human resource utilization. Students explore interactions between humans and earth’s abiotic resources, examining topics such as natural resource extraction, renewable and non- renewable energy production, hydrologic resource use and associated global environmental impacts.
+This course introduces fundamental concepts in environmental studies, with specific focus on energy, earth systems and human resource utilization. Students explore interactions between humans and earth’s abiotic resources, examining topics such as natural resource extraction, renewable and non- renewable energy production, hydrologic resource use and associated global environmental impacts. [(syllabus)](https://groff-portfolio.s3.amazonaws.com/courses/envs-202-f18.pdf) [(lab syllabus)](https://groff-portfolio.s3.amazonaws.com/courses/envs-202l-f18.pdf)
 
 #### Physical Computing 
 Shepherd University	Shepherdstown, WV  
