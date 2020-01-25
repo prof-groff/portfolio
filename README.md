@@ -10,4 +10,5 @@ GitHub: [prof-groff](https://github.com/prof-groff)
 
 [Publications](parts/publications.md)  
 [Presentations](parts/presentations.md)  
-[Courses](parts/courses.md)
+[Courses](parts/courses.md)  
+[Grants](parts/grants.md)
