@@ -1,5 +1,3 @@
-<title>Portfolio</title>
-
 # Jeffrey R. Groff
 
 [Publications](parts/publications.md)
