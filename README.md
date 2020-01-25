@@ -1,5 +1,5 @@
 # Jeffrey R. Groff
 
-[Publications](publications.md)
+[Publications](parts/publications.md)
 
-[Presentations](presentations.md)
+[Presentations](parts/presentations.md)
