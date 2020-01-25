@@ -16,7 +16,7 @@ This course is an introduction to electronics and microprocessors for students w
 Shepherd University	Shepherdstown, WV  
 Spring 2012, 2013, 2014, 2016, 2018
 
-This course is an introduction to the physics of energy and the application of physics principles to the production and use of energy. Topics covered include mechanical energy, thermal energy, heat transfer, work, conservation of energy, laws of thermodynamics, the kinetic theory of gases, applications of electromagnetism for power generation and distribution, applications of nuclear and quantum physics for power generation, and energy flow through biological systems. [(syllabus)](https://groff-portfolio.s3.amazonaws.com/courses/phys-302-s18.pdf) 
+This course is an introduction to the physics of energy and the application of physics principles to the production and use of energy. Topics covered include mechanical energy, thermal energy, heat transfer, work, conservation of energy, laws of thermodynamics, the kinetic theory of gases, applications of electromagnetism for power generation and distribution, applications of nuclear and quantum physics for power generation, and energy flow through biological systems. [(syllabus)](https://groff-portfolio.s3.amazonaws.com/courses/phys-301-s18.pdf) 
 
 #### Environmental Capstone                                                                                       
 Shepherd University	Shepherdstown, WV  
