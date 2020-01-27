@@ -30,7 +30,7 @@ Ortmann and the Physical Forms of Sound, Groff, J., Gonzol, D., American Associa
 
 Physical Computing: An Arduino-Based Course for Artists and Scientists, Groff, J., American Association of Physics Teachers, College Park, MD, July 27, 2015. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-s2015-aapt.pdf)
 
-Assessment of a model population’s sensitivity to collapse and extinction due to generational variance in adult survivorship, Hayes, Shelby and Groff, J., West Virginia Academy of Science 90th Annual Meeting, West Liberty University,  April  11,  2015.  (talk co-author) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/hayes-2015-wvas.pdf)
+Assessment of a model population’s sensitivity to collapse and extinction due to generational variance in adult survivorship, Hayes, Shelby and Groff, J., West Virginia Academy of Science 90th Annual Meeting, West Liberty University,  April  11,  2015.  (talk co-author)
 
 Using Arduino to Study Resonance, Groff, J. and Murphy S., American Association of Physics Teachers, San Diego, CA, January 5, 2015. (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2015-aaptposter.pdf)
 
