@@ -2,39 +2,39 @@
 
 Deep Learning for a Deeper Understanding of Physics, Groff, J., AAPT Winter 2020 Meeting, Orlando, FL, January 19, 2020 (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2020-aapt.pdf)
 
-Bees and Bytes: Advancing Science Using Tools of the Maker Movement, Groff, J., Center for Excellence in Education, Teacher Enrichment Program, Bite of Science, Blue Ridge Community College, Martinsburg, WV, March 26, 2019 (invited speaker)
+Bees and Bytes: Advancing Science Using Tools of the Maker Movement, Groff, J., Center for Excellence in Education, Teacher Enrichment Program, Bite of Science, Blue Ridge Community College, Martinsburg, WV, March 26, 2019 (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2019-cee.pdf)
 
-Deep Learning with Python, Groff, J., AAPT Winter 2019 Meeting, Houston, TX, January 12, 2019, 1-5pm, Sponsor: Committee on Educational Technology (invited workshop)
+Deep Learning with Python, Groff, J., AAPT Winter 2019 Meeting, Houston, TX, January 12, 2019, 1-5pm, Sponsor: Committee on Educational Technology (invited workshop) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2019-aapt.pdf)
 
-Spatiotemporal Monitoring of Honey Bee Hive Temperature, Groff, J., Frederick County Beekeeping Association, Frederick, MD, January 2, 2019 (invited speaker)
+Spatiotemporal Monitoring of Honey Bee Hive Temperature, Groff, J., Frederick County Beekeeping Association, Frederick, MD, January 2, 2019 (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2019-fcba.pdf)
 
-Monitoring Spatial and Temporal Variations of Hive Temperature, Groff, J., Electronic Hive-Monitoring Short Course, Eastern Apicultural Society Annual Meeting, Hampton, VA, August 13, 2018. (invited speaker)
+Monitoring Spatial and Temporal Variations of Hive Temperature, Groff, J., Electronic Hive-Monitoring Short Course, Eastern Apicultural Society Annual Meeting, Hampton, VA, August 13, 2018. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2018-eas.pdf)
 
-Teach-in: Perils and Promise of Nuclear Power in Global Politics, Groff, Jeff., Gordon, David., Holtslag, Aart, Shepherd University BCLS Auditorium, March 29, 2018 (invited panel discussion)
+Teach-in: Perils and Promise of Nuclear Power in Global Politics, Groff, Jeff., Gordon, David., Holtslag, Aart, Shepherd University BCLS Auditorium, March 29, 2018 (invited panel discussion) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2018-teachin.pdf)
 
 Faculty Address at Spring 2018 Convocation, Groff, J., Shepherd University, January 5, 2018. (invited speaker)
 
-Investigating RC Circuits and Sound with a Piezoelectric Buzzer and a Smartphone, Groff, J., AAPT Winter 2018 Meeting, San Diego, CA, January 7, 2018. (speaker)
+Investigating RC Circuits and Sound with a Piezoelectric Buzzer and a Smartphone, Groff, J., AAPT Winter 2018 Meeting, San Diego, CA, January 7, 2018. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2018-aapt.pdf)
 
-Arduino on a Rocket, Groff, J. AAPT Winter 2017 Meeting, Atlanta, GA, February 19, 2017. (speaker)
+Arduino on a Rocket, Groff, J. AAPT Winter 2017 Meeting, Atlanta, GA, February 19, 2017. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2017-aapt.pdf)
 
-Technology and Environmental Sustainability, Groff, J., Admitted Students Day, Shepherd University, Shepherdstown, WV, April 2, 2016. (invited speaker)
+Technology and Environmental Sustainability, Groff, J., Admitted Students Day, Shepherd University, Shepherdstown, WV, April 2, 2016. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2016-asd.pdf)
 
-Climate Change Films for the Physics Classroom, Groff, J., American Association of Physics Teachers, Sacramento, CA, July 19, 2016. (speaker)
+Climate Change Films for the Physics Classroom, Groff, J., American Association of Physics Teachers, Sacramento, CA, July 19, 2016. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-s2016-aapt.pdf)
 
-Small-Scale Distributed Solar Photovoltaics (PV), Groff, J., Inauguration Symposium: The University’s Role in Translating Energy Challenges into Business and Employment Opportunities, Shepherdstown, WV, April 8, 2016. (invited speaker)
+Small-Scale Distributed Solar Photovoltaics (PV), Groff, J., Inauguration Symposium: The University’s Role in Translating Energy Challenges into Business and Employment Opportunities, Shepherdstown, WV, April 8, 2016. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2016-es.pdf)
 
-Generating Audio-Frequency Analog Signals with Arduino, Groff, J., American Association of Physics Teachers, New Orleans, LA, January 11, 2016.  (speaker)
+Generating Audio-Frequency Analog Signals with Arduino, Groff, J., American Association of Physics Teachers, New Orleans, LA, January 11, 2016. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2016-aapt.pdf)
 
-Ortmann and the Physical Forms of Sound, Groff, J., Gonzol, D., American Association of Physics Teachers, New Orleans, LA, January 11, 2016. (poster)
+Ortmann and the Physical Forms of Sound, Groff, J., Gonzol, D., American Association of Physics Teachers, New Orleans, LA, January 11, 2016. (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2016-aaptposter.pdf)
 
-Physical Computing: An Arduino-Based Course for Artists and Scientists, Groff, J., American Association of Physics Teachers, College Park, MD, July 27, 2015. (speaker)
+Physical Computing: An Arduino-Based Course for Artists and Scientists, Groff, J., American Association of Physics Teachers, College Park, MD, July 27, 2015. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-s2015-aapt.pdf)
 
-Assessment of a model population’s sensitivity to collapse and extinction due to generational variance in adult survivorship, Hayes, Shelby and Groff, J., West Virginia Academy of Science 90th Annual Meeting, West Liberty University,  April  11,  2015.  (talk co-author)
+Assessment of a model population’s sensitivity to collapse and extinction due to generational variance in adult survivorship, Hayes, Shelby and Groff, J., West Virginia Academy of Science 90th Annual Meeting, West Liberty University,  April  11,  2015.  (talk co-author) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/hayes-2015-wvas.pdf)
 
-Using Arduino to Study Resonance, Groff, J. and Murphy S., American Association of Physics Teachers, San Diego, CA, January 5, 2015. (poster )
+Using Arduino to Study Resonance, Groff, J. and Murphy S., American Association of Physics Teachers, San Diego, CA, January 5, 2015. (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2015-aaptposter.pdf)
 
-The Search for the Higgs Boson: Science for the Sake of Discovery, Groff, J., West Virginia Academy of Science 89th Annual Meeting, Shepherd University, April 12, 2014.  (plenary speaker )
+The Search for the Higgs Boson: Science for the Sake of Discovery, Groff, J., West Virginia Academy of Science 89th Annual Meeting, Shepherd University, April 12, 2014.  (plenary speaker)
 
 The Development of a Low-Cost Arduino and Raspberry Pi-Based System for Environmental Moni- toring, Tomlin, Jared and Groff, J., West Virginia Academy of Science 89th Annual Meeting, April 12, 2014.  (talk co-author )
 
