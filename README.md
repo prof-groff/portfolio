@@ -1,10 +1,10 @@
 # Jeffrey R. Groff
 
 Email: [jgroff@shepherd.edu](mailto:jgroff@shepherd.edu)  
-Twitter: [@GroffFizix](https://twitter.com/GroffFizix)  
 Web: [www.fiz-ix.com](http://www.fiz-ix.com)  
 Instagram: [@shepherdenvironment](https://www.instagram.com/shepherdenvironment)  
-GitHub: [prof-groff](https://github.com/prof-groff)
+GitHub: [prof-groff](https://github.com/prof-groff)  
+Twitter: [@GroffFizix](https://twitter.com/GroffFizix)  
 
 ### Professional Works
 
