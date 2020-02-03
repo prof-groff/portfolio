@@ -34,7 +34,7 @@ Assessment of a model population’s sensitivity to collapse and extinction due 
 
 Using Arduino to Study Resonance, Groff, J. and Murphy S., American Association of Physics Teachers, San Diego, CA, January 5, 2015. (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2015-aaptposter.pdf)
 
-The Search for the Higgs Boson: Science for the Sake of Discovery, Groff, J., West Virginia Academy of Science 89th Annual Meeting, Shepherd University, April 12, 2014.  (plenary speaker)
+The Search for the Higgs Boson: Science for the Sake of Discovery, Groff, J., West Virginia Academy of Science 89th Annual Meeting, Shepherd University, April 12, 2014.  (plenary speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2014-wvas.pdf)
 
 The Development of a Low-Cost Arduino and Raspberry Pi-Based System for Environmental Moni- toring, Tomlin, Jared and Groff, J., West Virginia Academy of Science 89th Annual Meeting, April 12, 2014.  (talk co-author)
 
@@ -54,7 +54,7 @@ There and Back Again: A Homeowner’s Tale of DIY Solar Photovoltaics, Groff, J.
 
 Estimating the Boltzmann constant using simulations to fit experiments of settling Brownian particles, Khurana, Merika and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (talk co-author)
 
-Observations of the Thermal Properties of a Solar-Thermal Greenhouse Using an Arduino-Based Temperature Monitor, King, Lauren and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (poster)
+Observations of the Thermal Properties of a Solar-Thermal Greenhouse Using an Arduino-Based Temperature Monitor, King, Lauren and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/king-2013-wvas.pdf)
 
 Pale Blue Dot, Remarks made as part of my acceptance of the McDaniel College Scholar Alumni Award, McDaniel College, March 28, 2013. (invited speaker)
 
