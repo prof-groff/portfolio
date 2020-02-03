@@ -12,7 +12,7 @@ Monitoring Spatial and Temporal Variations of Hive Temperature, Groff, J., Elect
 
 Teach-in: Perils and Promise of Nuclear Power in Global Politics, Groff, Jeff., Gordon, David., Holtslag, Aart, Shepherd University BCLS Auditorium, March 29, 2018 (invited panel discussion) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2018-teachin.pdf)
 
-Faculty Address at Spring 2018 Convocation, Groff, J., Shepherd University, January 5, 2018. (invited speaker)
+Faculty Address at Spring 2018 Convocation, Groff, J., Shepherd University, January 5, 2018. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2018-convocation.pdf)
 
 Investigating RC Circuits and Sound with a Piezoelectric Buzzer and a Smartphone, Groff, J., AAPT Winter 2018 Meeting, San Diego, CA, January 7, 2018. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-w2018-aapt.pdf)
 
