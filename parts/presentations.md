@@ -48,13 +48,13 @@ Using Arduino and a Microphone to Listen for Time, Groff, J. and Murphy, S., Ame
 
 Online Assessment with WebAssign, Groff, J., Focus on Student Learning, Shepherd University, January 28, 2014. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2014-fosl.pdf)
 
-Leading Change, Groff, J., Aldrich, Dawn, and Maloney, Kate, McDaniel College, Westminster, MD, November 18, 2013. (invited panelist )
+Leading Change, Groff, J., Aldrich, Dawn, and Maloney, Kate, McDaniel College, Westminster, MD, November 18, 2013. (invited panelist)
 
-There and Back Again: A Homeowner’s Tale of DIY Solar Photovoltaics, Groff, J., Alternative Energy: Real World Applications and Implications, Conference, Shepherd University,  April  13, 2013. (speaker )
+There and Back Again: A Homeowner’s Tale of DIY Solar Photovoltaics, Groff, J., Alternative Energy: Real World Applications and Implications, Conference, Shepherd University,  April  13, 2013. (speaker)
 
-Estimating the Boltzmann constant using simulations to fit experiments of settling Brownian particles, Khurana, Merika and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (talk co-author )
+Estimating the Boltzmann constant using simulations to fit experiments of settling Brownian particles, Khurana, Merika and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (talk co-author)
 
-Observations of the Thermal Properties of a Solar-Thermal Greenhouse Using an Arduino-Based Temperature Monitor, King, Lauren and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (poster )
+Observations of the Thermal Properties of a Solar-Thermal Greenhouse Using an Arduino-Based Temperature Monitor, King, Lauren and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (poster)
 
 Pale Blue Dot, Remarks made as part of my acceptance of the McDaniel College Scholar Alumni Award, McDaniel College, March 28, 2013. (invited speaker)
 
@@ -80,7 +80,7 @@ Harvest Strategies Using Modifications of the Logistic Equation, Hoeck, K., Behr
 
 A Computational Investigation of Calcium Puffs and Sparks at Heterogenous Release Sites, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 16, 2011. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2011-wm.pdf)
  
-Physical Biology and Mathematical Biology in Undergraduate Physics Laboratory, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 18, 2011. (invited speaker )
+Physical Biology and Mathematical Biology in Undergraduate Physics Laboratory, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 18, 2011. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2011-wm-b.pdf)
 
 Ryanodine Receptor Allosteric Coupling and the Dynamics of Calcium Sparks, Groff, J.R., Smith, G.D., Biophysical Society Annual Meeting, Baltimore, MD, March 4 - 7, 2007. Mathematical Biology Young Researchers Workshop, Mathematical Biology Institute, Ohio State University, Columbus, OH, March 2007. William and Mary Graduate Research Symposium, March 30-31, 2007 (poster )
 
