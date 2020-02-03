@@ -36,17 +36,17 @@ Using Arduino to Study Resonance, Groff, J. and Murphy S., American Association 
 
 The Search for the Higgs Boson: Science for the Sake of Discovery, Groff, J., West Virginia Academy of Science 89th Annual Meeting, Shepherd University, April 12, 2014.  (plenary speaker)
 
-The Development of a Low-Cost Arduino and Raspberry Pi-Based System for Environmental Moni- toring, Tomlin, Jared and Groff, J., West Virginia Academy of Science 89th Annual Meeting, April 12, 2014.  (talk co-author )
+The Development of a Low-Cost Arduino and Raspberry Pi-Based System for Environmental Moni- toring, Tomlin, Jared and Groff, J., West Virginia Academy of Science 89th Annual Meeting, April 12, 2014.  (talk co-author)
 
-Sparking Undergraduate Research at Shepherd University, Colleen J. Nolan, Heidi Dobish, Jeffrey R. Groff, Heidi Hanrahan, Jennifer Penland, CUR Summit for State Systems/Consortia, Alexandria, VA,  March 28, 2014.  (poster)
+Sparking Undergraduate Research at Shepherd University, Colleen J. Nolan, Heidi Dobish, Jeffrey R. Groff, Heidi Hanrahan, Jennifer Penland, CUR Summit for State Systems/Consortia, Alexandria, VA,  March 28, 2014. (poster) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/nolan-2014-cur.pdf)
 
 The Stochastic Physics of Cells, Groff, J., Dickinson College Physics Colloquium Series, March 27, 2014. (invited speaker )
 
-From Gravity to Gradients: The Nanoscale Physics of our Cells, Groff, J., Faculty Research Forum, Shepherd University, February 12, 2014. (speaker )
+From Gravity to Gradients: The Nanoscale Physics of our Cells, Groff, J., Faculty Research Forum, Shepherd University, February 12, 2014. (speaker)
 
-Using Arduino and a Microphone to Listen for Time, Groff, J. and Murphy, S., American Association of Physics Teachers Winter Meeting, Orlando, FL, January 6, 2014. (poster )
+Using Arduino and a Microphone to Listen for Time, Groff, J. and Murphy, S., American Association of Physics Teachers Winter Meeting, Orlando, FL, January 6, 2014. (poster)
 
-Online Assessment with WebAssign, Groff, J., Focus on Student Learning, Shepherd University, January 28, 2014. (speaker )
+Online Assessment with WebAssign, Groff, J., Focus on Student Learning, Shepherd University, January 28, 2014. (speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2014-fosl.pdf)
 
 Leading Change, Groff, J., Aldrich, Dawn, and Maloney, Kate, McDaniel College, Westminster, MD, November 18, 2013. (invited panelist )
 
@@ -56,15 +56,15 @@ Estimating the Boltzmann constant using simulations to fit experiments of settli
 
 Observations of the Thermal Properties of a Solar-Thermal Greenhouse Using an Arduino-Based Temperature Monitor, King, Lauren and Groff, J., West Virginia Academy of Science Annual Meeting, Canaan Valley Institute, April 6, 2013 (poster )
 
-Pale Blue Dot, Remarks made as part of my acceptance of the McDaniel College Scholar Alumni Award, McDaniel College, March 28, 2013. (invited speaker )
+Pale Blue Dot, Remarks made as part of my acceptance of the McDaniel College Scholar Alumni Award, McDaniel College, March 28, 2013. (invited speaker)
 
-Measuring the Impulse of a Popper, Murphy, S. and Groff, J., American Association of Physics Teachers Winter Conference, New Orleans, LA, January 8, 2013. (talk co-author )
+Measuring the Impulse of a Popper, Murphy, S. and Groff, J., American Association of Physics Teachers Winter Conference, New Orleans, LA, January 8, 2013. (talk co-author)
 
-Estimating the Boltzmann Constant from Simulations of Settling Brownian Particles, Groff, J., American Association of Physics Teachers Winter Conference, New Orleans, LA, January 7, 2013. (speaker )
+Estimating the Boltzmann Constant from Simulations of Settling Brownian Particles, Groff, J., American Association of Physics Teachers Winter Conference, New Orleans, LA, January 7, 2013. (speaker)
 
-The Effects of Synaptic Noise on the Spike-Timing Precision of an Integrate-and-Fire Cortical Neuron Model Driven by an Integrate-and-Fire-or-Burst Thalamocortical Relay Cell Model, Chelf, D. A., Groff, J., West Virginia Academy of Science and STaR Symposium Joint Meeting, Institute, WV, April 21, 2012.  (poster )
+The Effects of Synaptic Noise on the Spike-Timing Precision of an Integrate-and-Fire Cortical Neuron Model Driven by an Integrate-and-Fire-or-Burst Thalamocortical Relay Cell Model, Chelf, D. A., Groff, J., West Virginia Academy of Science and STaR Symposium Joint Meeting, Institute, WV, April 21, 2012.  (poster)
 
-Constructing an Ultrasonic Anemometer Based on the ATmega328 Microcontroller and Arduino, Hoeck, K., Groff, J., West Virginia Academy of Science and STaR Symposium Joint Meeting, Institute, WV, April 21, 2012.  (poster )
+Constructing an Ultrasonic Anemometer Based on the ATmega328 Microcontroller and Arduino, Hoeck, K., Groff, J., West Virginia Academy of Science and STaR Symposium Joint Meeting, Institute, WV, April 21, 2012.  (poster)
 
 Spherical Cows and Other Ways that a Physicist can be Useful for Studying Biological Systems, Groff, J., McDaniel College, Westminster, MD, April 5, 2012. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2012-mc.pdf)
 
@@ -74,12 +74,12 @@ Swift and Slow, Vast and Small: Science and Human Perceptions of Space and Time,
 
 A Computational Investigation of Calcium Puffs and Sparks at Heterogenous Release Sites, Sheppard, W., Groff, J., West Virginia Academy of  Science  Annual  Meeting,  WVU  Tech,  Montgomery, WV, April  1, 2011.  (poster )
 
-Deconstructing Rainbows, Groff, J., Shepherd University Byrd Center for Legislative Studies, March 9, 2011. (invited speaker )
+Deconstructing Rainbows, Groff, J., Shepherd University Byrd Center for Legislative Studies, March 9, 2011. (invited speaker)
 
-Harvest Strategies Using Modifications of the Logistic Equation, Hoeck, K., Behrmann, M., Knepper, T., Reichard, B., Wang, Q., Groff, J., Martin, N., West Virginia Academy of Science Annual Meeting, WVU Tech, Montgomery, WV, April 1, 2011. (poster )
+Harvest Strategies Using Modifications of the Logistic Equation, Hoeck, K., Behrmann, M., Knepper, T., Reichard, B., Wang, Q., Groff, J., Martin, N., West Virginia Academy of Science Annual Meeting, WVU Tech, Montgomery, WV, April 1, 2011. (poster)
 
-A Computational Investigation of Calcium Puffs and Sparks at Heterogenous Release Sites, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 16, 2011.  (invited speaker )
-
+A Computational Investigation of Calcium Puffs and Sparks at Heterogenous Release Sites, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 16, 2011. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2011-wm.pdf)
+ 
 Physical Biology and Mathematical Biology in Undergraduate Physics Laboratory, Groff, J.R., The College of William and Mary, Williamsburg, VA, March 18, 2011. (invited speaker )
 
 Ryanodine Receptor Allosteric Coupling and the Dynamics of Calcium Sparks, Groff, J.R., Smith, G.D., Biophysical Society Annual Meeting, Baltimore, MD, March 4 - 7, 2007. Mathematical Biology Young Researchers Workshop, Mathematical Biology Institute, Ohio State University, Columbus, OH, March 2007. William and Mary Graduate Research Symposium, March 30-31, 2007 (poster )
