@@ -6,6 +6,8 @@ Instagram: [@shepherdenvironment](https://www.instagram.com/shepherdenvironment)
 GitHub: [prof-groff](https://github.com/prof-groff)  
 Twitter: [@GroffFizix](https://twitter.com/GroffFizix)  
 
+Curriculum Vitae [(PDF)
+
 ### Professional Works
 
 [Publications](parts/publications.md)  
