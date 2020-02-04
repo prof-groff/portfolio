@@ -14,3 +14,9 @@ Curriculum Vitae, Updated January 2020 [(PDF)](https://groff-portfolio.s3.amazon
 [Presentations](parts/presentations.md)  
 [Courses](parts/courses.md)  
 [Grants](parts/grants.md)
+
+### Education
+
+Ph.D. The College of William & Mary, 2008  
+M.S. The College of William & Mary, 2005  
+B.A. McDaniel College, 2001  
