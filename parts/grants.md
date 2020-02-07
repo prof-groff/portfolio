@@ -10,7 +10,7 @@
 
 (PD with co-PDs Peter Vila, Sytil Murphy, and Steve Shaffer) Energizing Tabler Farm for Teaching, Research, and Outreach, Women Investing in Shepherd (WISH) Grant, August 2018, Amount: $28,750. [(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2018-wish.pdf)
 
-(PD with PD Racheal Hally) Scarborough Library Solar Project: Advancing Sustainability on Campus and in Our Community, EPSCO Information Services, June 2018, Amount: $100,000.[(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2019-epsco.pdf)
+(PD with PD Racheal Hally) Scarborough Library Solar Project: Advancing Sustainability on Campus and in Our Community, EPSCO Information Services, June 2018, Amount: $100,000.[(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2018-epsco.pdf)
 
 (PI) Shepherd Technology Oversight Committee Grant, Purpose: A solar-powered WIFI hotspot for Tabler Farm, 2019, Amount: $3,445.
 
