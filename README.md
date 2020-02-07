@@ -1,5 +1,3 @@
-# Jeffrey R. Groff
-
 Email: [jgroff@shepherd.edu](mailto:jgroff@shepherd.edu)  
 Web: [www.fiz-ix.com](http://www.fiz-ix.com)  
 Instagram: [@shepherdenvironment](https://www.instagram.com/shepherdenvironment)  
