@@ -2,15 +2,15 @@
 
 #### Pending
 
-(PD Jeff Groff) Stimulating environmental stewardship through beekeeping and honey-bee habitat restoration and conservation, EPA Environmental Education Local Grants Program for Region 3, Submitted January 2020, Amount: $133,467 [(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2019-epaeelocal.pdf)
+(PD Jeff Groff) Stimulating environmental stewardship through beekeeping and honey-bee habitat restoration and conservation, EPA Environmental Education Local Grants Program for Region 3, Submitted January 2020, Amount: $133,467. [(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2019-epaeelocal.pdf)
 
 #### Funded
 
-(PDs Peter Vila and Jeff Groff) Monitoring Town Run water quality and quantity with real-time, on-line data reporting for informed decisions, Corporation of Shepherdstown Grant, September 2019, Amount: $6,700.
+(PDs Peter Vila and Jeff Groff) Monitoring Town Run water quality and quantity with real-time, on-line data reporting for informed decisions, Corporation of Shepherdstown Grant, September 2019, Amount: $6,700. [(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/vila-2019-shepherdstown.pdf)
 
-(PD with co-PDs Peter Vila, Sytil Murphy, and Steve Shaffer) Energizing Tabler Farm for Teaching, Research, and Outreach, Women Investing in Shepherd (WISH) Grant, August 2018, Amount: $28,750.
+(PD with co-PDs Peter Vila, Sytil Murphy, and Steve Shaffer) Energizing Tabler Farm for Teaching, Research, and Outreach, Women Investing in Shepherd (WISH) Grant, August 2018, Amount: $28,750. [(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2018-wish.pdf)
 
-(PD with PD Racheal Hally) Scarborough Library Solar Project: Advancing Sustainability on Campus and in Our Community, EPSCO Information Services, June 2018, Amount: $100,000.
+(PD with PD Racheal Hally) Scarborough Library Solar Project: Advancing Sustainability on Campus and in Our Community, EPSCO Information Services, June 2018, Amount: $100,000.[(PDF)](https://groff-portfolio.s3.amazonaws.com/grants/groff-2019-epsco.pdf)
 
 (PI) Shepherd Technology Oversight Committee Grant, Purpose: A solar-powered WIFI hotspot for Tabler Farm, 2019, Amount: $3,445.
 
