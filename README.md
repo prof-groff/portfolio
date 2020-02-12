@@ -25,4 +25,5 @@ B.A. McDaniel College, 2001
 [Sparks Journal of Undergraduate Research and Creative Works](http://www.sparksjournal.org/)  
 [dataStream](https://town-run-wq.appspot.com/)  
 [Frankenbot2000](https://twitter.com/Frankenbot2000)  
-[Snap Syllabus](https://snap-syllabus.appspot.com)
+[Snap Syllabus](https://snap-syllabus.appspot.com)  
+[Teaching Hours Calculator](http://fiz-ix.com/my-teaching-hours.html)
