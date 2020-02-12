@@ -19,3 +19,10 @@ WV's 2019 Professor of the Year Nomination Form [(PDF)](https://groff-portfolio.
 Ph.D. The College of William & Mary, 2008  
 M.S. The College of William & Mary, 2005  
 B.A. McDaniel College, 2001  
+
+### Web Projects
+
+[Sparks Journal of Undergraduate Research and Creative Works](http://www.sparksjournal.org/)  
+[dataStream](https://town-run-wq.appspot.com/)  
+[Frankenbot2000](https://twitter.com/Frankenbot2000)  
+[Snap Syllabus](https://snap-syllabus.appspot.com)
