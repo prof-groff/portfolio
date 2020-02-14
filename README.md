@@ -27,3 +27,5 @@ B.A. McDaniel College, 2001
 [Frankenbot2000](https://twitter.com/Frankenbot2000)  
 [Snap Syllabus](https://snap-syllabus.appspot.com)  
 [Teaching Hours Calculator](http://fiz-ix.com/my-teaching-hours.html)
+[Central Appalachian Surface Mining Intensity](http://fiz-ix.com/maps/mtr_99_15.html)
+[Human Geography, Levittown, NY](https://jeffreyryangroff.users.earthengine.app/view/levittown-ny)
