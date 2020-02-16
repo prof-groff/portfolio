@@ -30,3 +30,10 @@ B.A. McDaniel College, 2001
 [Central Appalachian Surface Mining Intensity](http://fiz-ix.com/maps/mtr_99_15.html)  
 [Human Geography, Levittown, NY](https://jeffreyryangroff.users.earthengine.app/view/levittown-ny)  
 [xBeeHive Monitoring (Beta)](https://aetherbot-184416.appspot.com/)
+
+### Instructional Video Collections
+
+[Physical Computing](https://www.youtube.com/playlist?list=PLU0qQqpLMfb1JbwHLJCpSnGwFd90TMYJY)  
+[Yellowstone and Grant Teton NPs](https://www.youtube.com/playlist?list=PLU0qQqpLMfb1Nt4Bg1i0DlBZkNdCC0vxZ)  
+[Yellowstone Thermal Features in Thermal IR](https://www.youtube.com/playlist?list=PLXHmpYuvdLaBeuR9dPgqnEW3tG58pgWOh)  
+[Introductory Physics](https://www.youtube.com/playlist?list=PLU0qQqpLMfb1MFCmOCsolXLLqAW2TKWpE)  
