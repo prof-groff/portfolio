@@ -1,6 +1,6 @@
 ## On the Topic of Student Success, or How Failure Cultivates
 
-The following was my response to a question possed by the Faculty Merit Foundation of West Virginia and included with my nomination materials for West Virginia's 2019 Professor of the Year. The question was, "Describe the successful college student. What qualities and characteristics should he or she bring from previous educational pursuits and life experiences?"
+#### The following was my response to a question possed by the Faculty Merit Foundation of West Virginia and included with my nomination materials for West Virginia's 2019 Professor of the Year. The question was, "Describe the successful college student. What qualities and characteristics should he or she bring from previous educational pursuits and life experiences?"
 	
 November 5, 2019
 
@@ -19,3 +19,5 @@ I’d like to thank the Faculty Merit Foundation Of West Virginia for the opport
 Sincerely, 
 	
 Jeff Groff, Associate Professor, Shepherd University
+
+[Home](https://prof-groff.github.io/portfolio)
