@@ -37,3 +37,7 @@ B.A. McDaniel College, 2001
 [Yellowstone and Grant Teton NPs](https://www.youtube.com/playlist?list=PLU0qQqpLMfb1Nt4Bg1i0DlBZkNdCC0vxZ)  
 [Yellowstone Thermal Features in Thermal IR](https://www.youtube.com/playlist?list=PLXHmpYuvdLaBeuR9dPgqnEW3tG58pgWOh)  
 [Introductory Physics](https://www.youtube.com/playlist?list=PLU0qQqpLMfb1MFCmOCsolXLLqAW2TKWpE)  
+
+### Other
+
+[How Failure Cultivates](parts/poy_essay.md)
