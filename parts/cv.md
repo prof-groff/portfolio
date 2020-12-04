@@ -1,16 +1,16 @@
-Jeffrey R. Groff 	
-177 Azure Drive	                                                (304) 240-7109 
-Martinsburg, WV 25404	                           jeffreyryangroff@gmail.com
+## Jeffrey R. Groff 	
 
- 
-Current Position
- 
-Professor of Physics	August 2009 – Present
-Shepherd University	Shepherdstown, WV
-As a member of the Institute of Environmental and Physical Sciences, I teach lecture and laboratory components of introductory and advanced physics and environmental studies courses for both science and non-science majors in the context of the university’s liberal arts curriculum. I have been tenured and at the full professor rank since the fall of 2020.
+177 Azure Drive, Martinsburg, WV 25404 - (304) 240-7109 - jgroff@shepherd.edu
 
-Chair, Institute of Environmental and Physical Sciences	January 2018 – Present 
-Shepherd University	Shepherdstown, WV
+### Current Position
+ 
+#### Professor of Physics
+Shepherd University, Shepherdstown, WV - August 2009 to present
+
+As a member of the Department of Environmental and Physical Sciences, I teach lecture and laboratory components of introductory and advanced physics and environmental studies courses for both science and non-science majors in the context of the university’s liberal arts curriculum. I have been tenured and at the full professor rank since the fall of 2020.
+
+#### Chair, Department of Environmental and Physical Sciences
+Shepherd University, Shepherdstown, WV - January 2018 to present 
 
  
 Education	Ph.D. in Applied Science with
