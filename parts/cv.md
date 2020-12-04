@@ -13,24 +13,25 @@ As a member of the Department of Environmental and Physical Sciences, I teach le
 Shepherd University, Shepherdstown, WV - January 2018 to present 
 
  
-Education	Ph.D. in Applied Science with
-specialization in Theoretical Biophysics
- 
-2008
- 
-The College of William & Mary	  Williamsburg, VA Dissertation: “Markov Chain Models of Calcium Puffs and Sparks”
+### Education
 
-M.S. in Applied Science	2005
-The College of William & Mary	   Williamsburg, VA
+#### Ph.D. in Applied Science with specialization in Theoretical Biophysics, 2008
+The College of William & Mary, Williamsburg, VA - 2008 </br>
+Dissertation: "Markov Chain Models of Calcium Puffs and Sparks"
 
-B.A. in Physics, Minor in Chemistry	2001
-McDaniel College	Westminster, MD
+#### M.S. in Applied Science
+The College of William & Mary, Williamsburg, VA - 2005
 
-Deep Learning Nanodegree	2017
-Udacity
+#### B.A. in Physics, Minor in Chemistry
+McDaniel College, Westminster, MD - 2001
 
-Courses Taught	Foundations in Environmental Science II	  Fall 2016, 2018, Spring 2017
-Shepherd University	Shepherdstown, WV
+#### Deep Learning Nanodegree
+Udacity - 2017
+
+### Courses Taught	
+
+#### Foundations in Environmental Science II
+Shepherd University, Shepherdstown, WV - Fall 2016, 2018, Spring 2017 <br>
 This course introduces fundamental concepts in environmental studies, with specific focus on energy, earth systems and human resource utilization. Students explore interactions between humans and earth’s abiotic resources, examining topics such as natural resource extraction, renewable and non- renewable energy production, hydrologic resource use and associated global environmental impacts.
 
 Physical Computing		          Spring 2013, 2015, 2017, 2019
