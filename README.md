@@ -4,7 +4,7 @@ Instagram: [@shepherdenvironment](https://www.instagram.com/shepherdenvironment)
 GitHub: [prof-groff](https://github.com/prof-groff)  
 Twitter: [@GroffFizix](https://twitter.com/GroffFizix)  
 
-Curriculum Vitae, Updated January 2020 [(PDF)](https://groff-portfolio.s3.amazonaws.com/other/groff-2020-cv.pdf)  
+Curriculum Vitae, Updated October 2022 [(PDF)](https://groff-portfolio.s3.amazonaws.com/other/groff-2022-cv.pdf)  
 WV's 2019 Professor of the Year Nomination Form [(PDF)](https://groff-portfolio.s3.amazonaws.com/other/groff-2019-poy.pdf) 
 
 ### Professional Works
