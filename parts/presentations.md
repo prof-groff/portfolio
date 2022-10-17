@@ -1,6 +1,6 @@
 ## Presentations
 
-Connected: Reflections on Ecology, Technology, and the Human Condtion, Groff. J. Appalachian Heritage and Writer-in-Residence Program, Shepherd University, September 26, 2022. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2022-ahwir.pdf)
+Connected: Reflections on Ecology, Technology, and the Human Condition, Groff. J. Appalachian Heritage and Writer-in-Residence Program, Shepherd University, September 26, 2022. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2022-ahwir.pdf)
 
 When Yellow Is Not Yellow and the Growth Mindset: Faculty Address at Fall Convocation, Groff. J., Shepherd University, August 19, 2022. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2022-convocation.pdf)
 
