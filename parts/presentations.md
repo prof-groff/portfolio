@@ -1,5 +1,9 @@
 ## Presentations
 
+Connected: Reflections on Ecology, Technology, and the Human Condtion, Groff. J. Appalachian Heritage and Writer-in-Residence Program, Shepherd University, September 26, 2022. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2022-ahwir.pdf)
+
+When Yellow Is Not Yellow and the Growth Mindset: Faculty Address at Fall Convocation, Groff. J., Shepherd University, August 19, 2022. (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2022-convocation.pdf)
+
 Deep Learning for a Deeper Understanding of Physics, Groff, J., AAPT Winter 2020 Meeting, Orlando, FL, January 19, 2020 (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2020-aapt.pdf)
 
 Bees and Bytes: Advancing Science Using Tools of the Maker Movement, Groff, J., Center for Excellence in Education, Teacher Enrichment Program, Bite of Science, Blue Ridge Community College, Martinsburg, WV, March 26, 2019 (invited speaker) [(PDF)](https://groff-portfolio.s3.amazonaws.com/presentations/groff-2019-cee.pdf)
